@@ -1,7 +1,7 @@
 # MiniDisparos
 HECHO POR AARONTITOOO
 
-Gracias por descargarlo :D, es mi primer juego que e echo y terminado espero que lo disfrutes 
+Gracias por descargarlo :D, es mi primer juego que he echo y terminado espero que lo disfrutes 
 y me sigas en mis redes para apoyarme y seguir haciendo juegos
 
 youtube:https://www.youtube.com/@aarontitooo
