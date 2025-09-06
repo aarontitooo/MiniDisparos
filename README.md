@@ -11,5 +11,4 @@ github: https://github.com/aarontitooo
 cuidate uwu
 
 descripcion:
-dispara y mata a tus enemigos cada 1000 puntos llegara un jefe al cual debes matar, son 5 niveles sencillos y
-faciles
+dispara y mata a tus enemigos cada 1000 puntos llegara un jefe al cual debes matar, son 5 niveles sencillos y faciles
