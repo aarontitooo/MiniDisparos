@@ -4,9 +4,9 @@ HECHO POR AARONTITOOO
 Gracias por descargarlo :D, es mi primer juego que he hecho y terminado espero que lo disfrutes 
 y me sigas en mis redes para apoyarme y seguir haciendo juegos
 
-youtube:https://www.youtube.com/@aarontitooo
-twich:https://www.twitch.tv/aarontitooo
-github:https://github.com/aarontitooo
+youtube: https://www.youtube.com/@aarontitooo
+twich: https://www.twitch.tv/aarontitooo
+github: https://github.com/aarontitooo
 
 cuidate uwu
 
